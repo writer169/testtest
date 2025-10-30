@@ -1,0 +1,5 @@
+{
+  "name": "Hello Bear",
+  "description": "A simple and elegant web page that displays the text 'Привед, Медвед!' with a nice gradient effect.",
+  "requestFramePermissions": []
+}
